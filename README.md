@@ -1,4 +1,4 @@
-# PyTorch Tutorial for MIL Prerinko 2023
+# PyTorch Tutorial for MIL Prerinko 2024
 
 PyTorch、logging、argparseのチュートリアル。
 
